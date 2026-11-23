@@ -1,0 +1,26 @@
+# Binary files
+*.dll
+*.exe
+*.pdb
+*.bin
+*.obj
+*.lib
+*.so
+*.class
+*.jar
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.log
+*.cache
